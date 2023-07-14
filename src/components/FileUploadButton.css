@@ -1,0 +1,11 @@
+.file_upload_wrapper {
+  margin-top: 100px;
+}
+
+.modal-header {
+  border-bottom: 0 !important;
+}
+
+.modal-footer {
+    border-top: 0 !important;
+}
